@@ -31,3 +31,9 @@ rm -rf .git -> remove a atrtibuição da pasta ao git, ele volta ao normal.
 (use "git add <file>..." to update what will be committed)
 (use "git restore <file>..." to discard changes in working directory
 ---------------------------------------------------------------------
+**git diff + nome do arquivo -> ele mostra o que foi adicionado e precisa de commit
+dentro de um arquivo. depois que ele sofreu uma mudança. Ele mostra a versão
+anterior e o que vai ser adicionado.
+**git diff . -> mostra todas as alterações em todos os arquivos.Da pasta
+**git reset  -> retira um arquivo da fase de (stage) , ou seja que foi 
+adicionado usando git add.
