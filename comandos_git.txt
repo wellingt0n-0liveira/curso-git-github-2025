@@ -5,14 +5,15 @@ rm -rf .git -> remove a atrtibuição da pasta ao git, ele volta ao normal.
 
 *Comandos GIT
 
-git status -> mostra a situação do diretório. Ex arquivos Untracked e etc.
-git add -> adiciona arquivo para ser versionado (track)
-git rm --cached -> remove arquivo do cache de versionamento(unstage)
-git commit -m -> Adiciona uma mensagem ao commit feito.
-git config --global user.mail "you@exemple.com"-> qual e-mail esta fazendo o commit 
+**git status -> mostra a situação do diretório. Ex arquivos Untracked e etc.
+**git add -> adiciona arquivo para ser versionado (track)
+**git rm --cached -> remove arquivo do cache de versionamento(unstage)
+**git commit -m -> Adiciona uma mensagem ao commit feito.
+**git config --global user.mail "you@exemple.com"-> qual e-mail esta fazendo o commit 
  EXEMNPLO-> git config --global user.mail "lockyy@gmail.com"
-git config --global user.name "your name" -> Quem é o responsável por aquele e-mail(usuário do git)
+**git config --global user.name "your name" -> Quem é o responsável por aquele e-mail(usuário do git)
  EXEMPLO ->  git config --global user.name "wellingt0n-0liveira"
+**git log -> mostra todos os commits
 ----------------------------------------------------------------
 (use "git add <file>..." to update what will be committed)
 (use "git restore <file>..." to discard changes in working directory
