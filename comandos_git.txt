@@ -1,7 +1,4 @@
-ls -> lista arquivos
-cd -> move entre diretorios
-pwd -> mostra a pasta onde vc esta
-cat -> mostra conteúdo do arquivo texto
+
 
 git init . -> atribui essa pasta no git(virou um repositorio GIT)
 rm -rf .git -> remove a atrtibuição da pasta ao git, ele volta ao normal.
@@ -20,5 +17,3 @@ git config --global user.name "your name" -> Quem é o responsável por aquele e
 (use "git add <file>..." to update what will be committed)
 (use "git restore <file>..." to discard changes in working directory
 ---------------------------------------------------------------------
-
-
