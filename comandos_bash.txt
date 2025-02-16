@@ -1,0 +1,12 @@
+ls -> lista arquivos
+cd -> move entre diretorios
+pwd -> mostra a pasta onde vc esta
+
+git init . -> atribui essa pasta no git(virou um repositorio GIT)
+rm -rf .git -> remove a atrtibuição da pasta ao git, ele volta ao normal.
+
+*Comandos GIT
+
+git status -> mostra a situação do diretório. Ex arquivos Untracked e etc.
+git add -> adiciona arquivo para ser versionado (track)
+git rm --cached -> remove arquivo do cache de versionamento(unstage)
