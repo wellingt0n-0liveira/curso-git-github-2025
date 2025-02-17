@@ -1,0 +1,4 @@
+este arquivo contem comando secundários do git
+
+-primeiro
+- segundo comando
