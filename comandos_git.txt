@@ -37,3 +37,13 @@ anterior e o que vai ser adicionado.
 **git diff . -> mostra todas as alterações em todos os arquivos.Da pasta
 **git reset  -> retira um arquivo da fase de (stage) , ou seja que foi 
 adicionado usando git add.
+-------------------------------------------------------------------------
+## TRABALHANDO COM BRANCHS(RAMIFICAÇÕES)
+
+*git checkout -b secundaria -> cria uma nova "Branch", de nome secundária.
+*git branch -> mostra todas as branch do projeto
+*git checout (nome da branch) -> vai direto para ela. Ex, git checkout main ->
+volta para abrabch main.
+*git merge (nome da branch secundaria) -> Junta o criado na branch secundára
+ao que existe na principal. (merge = miisturar)EX, git merge secundária
+*git branch -D (nome da branch)-> apaga uma branch. EX, git branch -D secundaria
