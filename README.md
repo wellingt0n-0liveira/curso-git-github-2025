@@ -8,3 +8,6 @@ Além disso vamos trabalhar com Gitflow ao final
 do curso e VSCode.
 
 Brabo
+
+https://ndpsoftware.com/git-cheatsheet.html#loc=stash; 
+importante
